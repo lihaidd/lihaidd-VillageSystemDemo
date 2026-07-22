@@ -1,4 +1,4 @@
-# VillageSystem Demo
+﻿# VillageSystem Demo
 
 This repository contains only the generated static demo files for GitHub Pages.
 
